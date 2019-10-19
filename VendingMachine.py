@@ -1,4 +1,5 @@
 VM = { 1: ["Coke", 2.50], 2: ["Cherry", 2.00] , 3 : ["Sprite", 2.25] , 4: ["Water", 3.00]}
+price=2.00
 
 def payment(name, cost):
   pay = 0.0
